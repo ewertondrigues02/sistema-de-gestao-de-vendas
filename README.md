@@ -7,7 +7,7 @@ Este projeto implementa um sistema CRUD completo para **Clientes**, **Produtos**
 
 ## Tecnologias Utilizadas
 
-- **Java 121**
+- **Java 21**
 - **Spring Data**
 - **JPA (Hibernate)**
 - **PostgreSQL**
