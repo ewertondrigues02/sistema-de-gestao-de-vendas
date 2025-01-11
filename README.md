@@ -41,7 +41,7 @@ O projeto está estruturado com as seguintes camadas e componentes:
 1. **Clonar o repositório**:
 
    ```bash
-   git clone https://github.com/username/project-name.git
+   git clone https://github.com/ewertondrigues/.git
    cd project-name
    ```
 
