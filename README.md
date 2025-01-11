@@ -7,12 +7,12 @@ Este projeto implementa um sistema CRUD completo para **Clientes**, **Produtos**
 
 ## Tecnologias Utilizadas
 
-- **Java 11**
-- **Spring Boot**
+- **Java 121**
+- **Spring Data**
 - **JPA (Hibernate)**
 - **PostgreSQL**
 - **Docker**
-- **JUnit 5 (Testes)**
+- **JUnit 4 (Testes)**
 - **Mockito (Mocks)**
 
 ## Estrutura do Projeto
