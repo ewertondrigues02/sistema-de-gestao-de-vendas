@@ -1,4 +1,5 @@
-![Uploading Diagrama do Banco Digital - 3Core.drawio.png…]
+![Diagrama do Banco Digital - 3Core drawio](https://github.com/user-attachments/assets/fa3612c7-dcec-48c3-8142-f9c4db497cb3)
+
 
 # Sistema de Gestão de Vendas: CRUD Completo com JPA, Hibernate, PostgreSQL e Testes Avançados
 
