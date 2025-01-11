@@ -1,3 +1,6 @@
+![Diagrama do Banco Digital - 3Core drawio](https://github.com/user-attachments/assets/38cdd3a3-fdba-413c-9979-4c1375c32c6b)
+
+
 # Sistema de Gestão de Vendas: CRUD Completo com JPA, Hibernate, PostgreSQL e Testes Avançados
 
 
@@ -179,6 +182,5 @@ A documentação gerada estará disponível em `target/site/apidocs`.
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 ```
-![Diagrama do Banco Digital - 3Core drawio](https://github.com/user-attachments/assets/38cdd3a3-fdba-413c-9979-4c1375c32c6b)
 
 
