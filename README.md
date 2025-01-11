@@ -179,5 +179,6 @@ A documentação gerada estará disponível em `target/site/apidocs`.
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 ```
-![Diagrama do Banco Digital - 3Core drawio](https://github.com/user-attachments/assets/384556be-4d7f-4954-9eab-ba5c87c57d60)
+![Diagrama do Banco Digital - 3Core drawio](https://github.com/user-attachments/assets/38cdd3a3-fdba-413c-9979-4c1375c32c6b)
+
 
