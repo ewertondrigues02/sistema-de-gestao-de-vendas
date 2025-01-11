@@ -41,7 +41,7 @@ O projeto está estruturado com as seguintes camadas e componentes:
 1. **Clonar o repositório**:
 
    ```bash
-   git clone https://github.com/ewertondrigues/.git
+   git clone https://github.com/ewertondrigues/sistema-de-gestao-de-vendas-crud-completo-com-jpa-hibernate-postgre-sql-e-testes-avan-ados.git
    cd project-name
    ```
 
@@ -180,4 +180,3 @@ A documentação gerada estará disponível em `target/site/apidocs`.
 Este projeto está licenciado sob a [MIT License](LICENSE).
 ```
 
-Esse README apresenta uma estrutura profissional, com a explicação de como rodar o projeto, como ele está organizado, exemplos de código, testes, mocks, e Javadocs. Fique à vontade para personalizar conforme necessário!
