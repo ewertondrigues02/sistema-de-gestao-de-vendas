@@ -2,7 +2,6 @@
 
 # Sistema de Gestão de Vendas: CRUD Completo com JPA, Hibernate, PostgreSQL e Testes Avançados
 
-
 # CRUD Cliente, Produto e Vendas
 
 Este projeto implementa um sistema CRUD completo para **Clientes**, **Produtos** e **Vendas**, utilizando tecnologias como **JPA**, **PostgreSQL**, **Docker**, **Hibernate**, com testes unitários e de integração, mocks, e Javadocs detalhados. O projeto segue boas práticas de arquitetura, como o uso de classes abstratas, DAOs, Services, e interfaces.
